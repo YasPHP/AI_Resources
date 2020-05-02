@@ -13,3 +13,8 @@ title says it all.
 
 
 
+==== Content ====
+
+- Neural Networks and Deep Learning- a free online book: http://neuralnetworksanddeeplearning.com/
+
+
