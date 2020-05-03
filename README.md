@@ -3,6 +3,7 @@ title says it all.
 
 ==== PEOPLE ====
 
+- Geoffrey Hinton: https://www.cs.toronto.edu/~hinton/
 - Lex Fridman: https://lexfridman.com/ 
 
 
@@ -16,5 +17,6 @@ title says it all.
 ==== Content ====
 
 - Neural Networks and Deep Learning- a free online book: http://neuralnetworksanddeeplearning.com/
+- Hinton TechTalks and Lectures: https://www.cs.toronto.edu/~hinton/
 
 
