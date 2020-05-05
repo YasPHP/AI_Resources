@@ -2,10 +2,10 @@
 title says it all.
 
 ==== PEOPLE ====
-
+Dr.
 - Geoffrey Hinton: https://www.cs.toronto.edu/~hinton/
 - Lex Fridman: https://lexfridman.com/ 
-
+- Rana el Kaliouby: https://ranaelkaliouby.com/
 
 
 ==== Learning ====
