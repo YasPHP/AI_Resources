@@ -27,10 +27,19 @@ Dr.
 - The MNIST Database of Handwritten Digits: http://yann.lecun.com/exdb/mnist/
 - Enron Email Dataset: https://www.cs.cmu.edu/~enron/
 - Cricket Ball-by-Ball Sheet: https://cricsheet.org/downloads/
+- Large US Health Datasets: https://www.ehdp.com/links/datasets.htm
+- OpenFDA: https://open.fda.gov/downloads/
+- World Bank Health Nutrition And Population Statistics: https://datacatalog.worldbank.org/dataset/health-nutrition-and-population-statistics
 
 ==== Webscraping-curated Databases ===
 - Sports Statistics Database: https://www.rotowire.com/
 
 ==== Data Sources ====
-- Twitter API: 
+- Twitter API: https://developer.twitter.com/en/docs
+- StockTwits API: https://api.stocktwits.com/developers/docs
+
+
+
+
+# ADD MORE DATA SOURCES: https://elitedatascience.com/machine-learning-projects-for-beginners#gladiator
 
