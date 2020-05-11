@@ -25,3 +25,12 @@ Dr.
 
 ==== Databases ====
 - The MNIST Database of Handwritten Digits: http://yann.lecun.com/exdb/mnist/
+- Enron Email Dataset: https://www.cs.cmu.edu/~enron/
+- Cricket Ball-by-Ball Sheet: https://cricsheet.org/downloads/
+
+==== Webscraping-curated Databases ===
+- Sports Statistics Database: https://www.rotowire.com/
+
+==== Data Sources ====
+- Twitter API: 
+
