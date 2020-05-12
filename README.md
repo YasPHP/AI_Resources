@@ -11,6 +11,8 @@ Dr.
 - Corinna Cortes: https://research.google/people/author121/
 - Christopher J.C. Burges: https://chrisburges.net/
 
+
+
 ==== Learning ====
 
 - MIT Deep Learning: https://deeplearning.mit.edu/
@@ -18,10 +20,12 @@ Dr.
 - Class Central: https://www.classcentral.com/subject/deep-learning
 
 
+
 ==== Content ====
 
 - Neural Networks and Deep Learning- a free online book: http://neuralnetworksanddeeplearning.com/
 - Hinton TechTalks and Lectures: https://www.cs.toronto.edu/~hinton/
+
 
 
 ==== Databases ====
@@ -31,9 +35,21 @@ Dr.
 - Large US Health Datasets: https://www.ehdp.com/links/datasets.htm
 - OpenFDA: https://open.fda.gov/downloads/
 - World Bank Health Nutrition And Population Statistics: https://datacatalog.worldbank.org/dataset/health-nutrition-and-population-statistics
+- 
+
+
+
+==== Open, Diverse Datasets ====
+- UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php [350+ searchable datasets spanning every subject]
+- Kaggle: https://www.kaggle.com/datasets
+- Data.gov: https://www.data.gov/
+
+
 
 ==== Webscraping-curated Databases ===
 - Sports Statistics Database: https://www.rotowire.com/
+
+
 
 ==== API Data Sources ====
 - Twitter API: https://developer.twitter.com/en/docs
