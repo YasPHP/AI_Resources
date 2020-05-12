@@ -35,7 +35,6 @@ Dr.
 - Large US Health Datasets: https://www.ehdp.com/links/datasets.htm
 - OpenFDA: https://open.fda.gov/downloads/
 - World Bank Health Nutrition And Population Statistics: https://datacatalog.worldbank.org/dataset/health-nutrition-and-population-statistics
-- 
 
 
 
