@@ -41,8 +41,8 @@ Dr.
 
 ==== Open, Diverse Datasets ====
 - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php [350+ searchable datasets spanning every subject]
-- Kaggle: https://www.kaggle.com/datasets
-- Data.gov: https://www.data.gov/
+- Kaggle: https://www.kaggle.com/datasets [100+ datasets- community relevant]
+- Data.gov: https://www.data.gov/ [US Government Social Sciences]
 
 
 
