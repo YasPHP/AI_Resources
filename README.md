@@ -43,6 +43,7 @@ Dr.
 - Kaggle: https://www.kaggle.com/datasets [100+ datasets- community relevant]
 - Data.gov: https://www.data.gov/ [US Government Social Sciences]
 - Quandl Economic Finances: https://www.quandl.com/search
+- Quantopian Finance Community: https://www.quantopian.com/docs/data-reference/overview
 
 
 ==== Webscraping-curated Databases ===
