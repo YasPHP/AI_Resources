@@ -44,7 +44,7 @@ Dr.
 - Data.gov: https://www.data.gov/ [US Government Social Sciences]
 - Quandl Economic Finances: https://www.quandl.com/search
 - Quantopian Finance Community: https://www.quantopian.com/docs/data-reference/overview
-
+- US Fundamentals Archive: https://www.usfundamentals.com/download/
 
 ==== Webscraping-curated Databases ===
 - Sports Statistics Database: https://www.rotowire.com/
