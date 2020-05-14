@@ -57,7 +57,3 @@ Dr.
 - StockTwits API: https://api.stocktwits.com/developers/docs
 
 
-
-
-# ADD MORE DATA SOURCES: https://elitedatascience.com/machine-learning-projects-for-beginners#gladiator
-
