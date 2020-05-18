@@ -11,6 +11,8 @@ Dr.
 - Corinna Cortes: https://research.google/people/author121/
 - Christopher J.C. Burges: https://chrisburges.net/
 
+==== SOCIETIES ====
+- Women in AI: https://www.womeninai.co/
 
 
 ==== Learning ====
