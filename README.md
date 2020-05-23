@@ -29,7 +29,7 @@ Dr.
 - Neural Networks and Deep Learning- a free online book: http://neuralnetworksanddeeplearning.com/
 - Hinton TechTalks and Lectures: https://www.cs.toronto.edu/~hinton/
 - AI News & Policy: https://www.internetsociety.org/issues/past-categories/ai/
-
+- SciFi Appearances: https://starwars.fandom.com/wiki/Artificial_intelligence/Legends
 
 ==== Databases ====
 - The MNIST Database of Handwritten Digits: http://yann.lecun.com/exdb/mnist/
