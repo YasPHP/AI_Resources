@@ -13,7 +13,7 @@ Dr.
 
 ==== SOCIETIES ====
 - Women in AI: https://www.womeninai.co/
-
+- Women of AI: https://womenofai.org/
 
 ==== Learning ====
 
