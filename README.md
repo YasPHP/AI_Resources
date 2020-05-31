@@ -10,6 +10,9 @@ Dr.
 - Yann LeCun: http://yann.lecun.com/
 - Corinna Cortes: https://research.google/people/author121/
 - Christopher J.C. Burges: https://chrisburges.net/
+- Demis Hassabis: https://deepmind.com/
+- Lila Ibrahim: https://en.wikipedia.org/wiki/Lila_Ibrahim
+- 
 
 ==== SOCIETIES ====
 - Women in AI: https://www.womeninai.co/
