@@ -50,7 +50,6 @@ Dr.
 ==== Open, Diverse Datasets ====
 - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php [350+ searchable datasets spanning every subject]
 - Kaggle: https://www.kaggle.com/datasets [100+ datasets- community relevant]
-- Data.gov: https://www.data.gov/ [US Government Social Sciences]
 - Quandl Economic Finances: https://www.quandl.com/search
 - Quantopian Finance Community: https://www.quantopian.com/docs/data-reference/overview
 - US Fundamentals Archive: https://www.usfundamentals.com/download/
@@ -58,8 +57,4 @@ Dr.
 ==== Webscraping-curated Databases ===
 - Sports Statistics Database: https://www.rotowire.com/
 
-
-==== API Data Sources ====
-- Twitter API: https://developer.twitter.com/en/docs
-- StockTwits API: https://api.stocktwits.com/developers/docs
 
