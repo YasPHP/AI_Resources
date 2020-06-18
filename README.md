@@ -50,7 +50,7 @@ Dr.
 - List of neuroscience databases: https://en.wikipedia.org/wiki/List_of_neuroscience_databases
 - BRAINnet Database: http://www.brainnet.net/about/brain-resource-international-database/
 - Alzheimer's Disease Neuroimaging Initiative (institutional backing required): http://adni.loni.usc.edu/data-samples/access-data/
-- 
+- Allen Brain Atlas: https://portal.brain-map.org/
 
 ==== Open, Diverse Datasets ====
 - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php [350+ searchable datasets spanning every subject]
