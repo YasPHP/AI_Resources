@@ -52,6 +52,7 @@ Dr.
 - Allen Brain Atlas: https://portal.brain-map.org/
 - Brain Graph (Connectomes): https://braingraph.org/
 - Brain Development Atlas (neonatal specialty): https://brain-development.org/brain-atlases/adult-brain-atlases/
+- Cerebellar Development Transcriptome Database [CDT-DB] (genetics + brain development): http://www.cdtdb.neuroinf.jp/CDT/Top.jsp
 
 ==== Open, Diverse Datasets ====
 - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php [350+ searchable datasets spanning every subject]
