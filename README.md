@@ -45,16 +45,6 @@ Dr.
 - OpenFDA: https://open.fda.gov/downloads/
 - World Bank Health Nutrition And Population Statistics: https://datacatalog.worldbank.org/dataset/health-nutrition-and-population-statistics
 
-==== Neuroscience 🧠 Databases ====
-- List of neuroscience databases: https://en.wikipedia.org/wiki/List_of_neuroscience_databases
-- BRAINnet Database: http://www.brainnet.net/about/brain-resource-international-database/
-- Alzheimer's Disease Neuroimaging Initiative (institutional backing required): http://adni.loni.usc.edu/data-samples/access-data/
-- Allen Brain Atlas: https://portal.brain-map.org/
-- Brain Graph (Connectomes): https://braingraph.org/
-- Brain Development Atlas (neonatal specialty): https://brain-development.org/brain-atlases/adult-brain-atlases/
-- Cerebellar Development Transcriptome Database [CDT-DB] (genetics + brain development): http://www.cdtdb.neuroinf.jp/CDT/Top.jsp
-- BrainMaps: http://www.brainmaps.org/
-- Brain Architecture Management System (neurocircuitry) [BAMS]: http://map.loni.usc.edu/data/brain-architecture-management-system-bams/ 
 ==== Open, Diverse Datasets ====
 - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php [350+ searchable datasets spanning every subject]
 - Kaggle: https://www.kaggle.com/datasets [100+ datasets- community relevant]
