@@ -36,7 +36,3 @@ Dr.
 - SciFi Appearances: https://starwars.fandom.com/wiki/Artificial_intelligence/Legends
 - Benefit/Risk Article: https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/?cn-reloaded=1
 
-
-==== Webscraping-curated Databases ===
-- Sports Statistics Database: https://www.rotowire.com/
-
