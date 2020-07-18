@@ -24,8 +24,3 @@ Dr.
 
 - Hinton TechTalks and Lectures: https://www.cs.toronto.edu/~hinton/
 
-==== Content ====
-
-- AI News & Policy: https://www.internetsociety.org/issues/past-categories/ai/
-- SciFi Appearances: https://starwars.fandom.com/wiki/Artificial_intelligence/Legends
-- Benefit/Risk Article: https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/?cn-reloaded=1
