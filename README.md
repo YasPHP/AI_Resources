@@ -22,5 +22,3 @@ Dr.
 
 - ML Learning Mindmap: https://github.com/YasPHP/machine-learning-mindmap
 
-- Hinton TechTalks and Lectures: https://www.cs.toronto.edu/~hinton/
-
