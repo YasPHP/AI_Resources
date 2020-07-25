@@ -13,9 +13,3 @@ Dr.
 - Demis Hassabis: https://deepmind.com/
 - Lila Ibrahim: https://en.wikipedia.org/wiki/Lila_Ibrahim
 - Andrej Karpathy: https://cs.stanford.edu/~karpathy/
-
-==== Learning ====
-
-
-
-
