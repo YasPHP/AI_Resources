@@ -16,6 +16,6 @@ Dr.
 
 ==== Learning ====
 
-- Class Central: https://www.classcentral.com/subject/deep-learning
+
 
 
