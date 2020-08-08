@@ -15,3 +15,4 @@ Dr.
 - Andrej Karpathy: https://cs.stanford.edu/~karpathy/
 
 [check out cs70]
+Discrete Mathematics and Probability Theory: https://www.eecs70.org/
