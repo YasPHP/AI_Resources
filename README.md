@@ -13,6 +13,3 @@ Dr.
 - Demis Hassabis: https://deepmind.com/
 - Lila Ibrahim: https://en.wikipedia.org/wiki/Lila_Ibrahim
 - Andrej Karpathy: https://cs.stanford.edu/~karpathy/
-
-[check out cs70]
-Discrete Mathematics and Probability Theory: https://www.eecs70.org/
