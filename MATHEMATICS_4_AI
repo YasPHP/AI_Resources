@@ -11,14 +11,14 @@ concept, properties, applications
 concept, properties, applications
 
 Calculus ==
-Functions
-Scalar derivative
+- Functions
+- Scalar derivative
 definition, intuition, common rules of differentiation, chain rule, partial derivatives
-Gradient
+- Gradient
 concept, intuition, properties, directional derivative
-Vector and matrix calculus
+- Vector and matrix calculus
 how to find derivative of {scalar-valued, vector-valued} function wrt a {scalar, vector} -> four combinations- Jacobian
-Gradient algorithms
+- Gradient algorithms
 local/global maxima and minima, saddle point, convex functions, gradient descent algorithms- batch, mini-batch, stochastic, their performance comparison
 
 Probability ==
