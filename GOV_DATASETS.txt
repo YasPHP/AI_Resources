@@ -1,5 +1,7 @@
 ==== Government's Open Data ====
 - US: https://www.data.gov/
+-- College Scorecards: https://catalog.data.gov/dataset/college-scorecard 
+
 - UK: https://data.gov.uk/
 - CAD: https://open.canada.ca/en/open-data
 - AU: https://data.gov.au/
