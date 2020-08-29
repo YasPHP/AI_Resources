@@ -30,8 +30,8 @@ events, sample space, frequentist approach, dependent and independent events, co
 - Conjugate priors
 
 Miscellaneous ==
-Information theory- entropy, cross-entropy, KL divergence, mutual information
-Markov Chain- definition, transition matrix, stationarity
+- Information theory- entropy, cross-entropy, KL divergence, mutual information
+- Markov Chain- definition, transition matrix, stationarity
 
 
 == article creds: https://towardsdatascience.com/mathematics-for-ai-all-the-essential-math-topics-you-need-ed1d9c910baf
