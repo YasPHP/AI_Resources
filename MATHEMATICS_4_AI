@@ -1,7 +1,7 @@
 Linear Algebra == 
 - Vectors
 definition, scalars, addition, scalar multiplication, inner product(dot product), vector projection, cosine similarity, orthogonal vectors, normal and orthonormal vectors, vector norm, vector space, linear combination, linear span, linear independence, basis vectors
-- Matrices
+- Matrices 
 definition, addition, transpose, scalar multiplication, matrix multiplication, matrix multiplication properties, hadamard product, functions, linear transformation, determinant, identity matrix, invertible matrix and inverse, rank, trace, popular type of matrices- symmetric, diagonal, orthogonal, orthonormal, positive definite matrix
 - Eigenvalues & eigenvectors
 concept, intuition, significance, how to find
