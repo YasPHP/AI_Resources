@@ -15,3 +15,4 @@ Dr.
 - Andrej Karpathy: https://cs.stanford.edu/~karpathy/
 - Claude Shannon
 - Cassie Kozyrkov: https://medium.com/@kozyrkov
+- LL
