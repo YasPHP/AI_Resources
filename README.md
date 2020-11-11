@@ -14,4 +14,4 @@ Dr.
 - Lila Ibrahim: https://en.wikipedia.org/wiki/Lila_Ibrahim
 - Andrej Karpathy: https://cs.stanford.edu/~karpathy/
 - Claude Shannon
-- Cassie Kozyrkov: https://medium.com/@kozyrkov
+- Cassie Kozyrkov: https://medium.com/@kozyrkov 
