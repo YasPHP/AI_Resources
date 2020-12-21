@@ -12,6 +12,7 @@ The title says it all! This document is a running wiki on the various facets of 
 - AI_SOCIETIES
 - AI_TOOLS
 - API_DATA
+- COGSCI_AI
 - FRAMEWORKS
 - GOV_DATASETS
 - INFO_BOOKS
