@@ -22,6 +22,7 @@ The title says it all! This document is a running wiki on the various facets of 
 - MEDIA
 - NEURO_DATA
 - NEURO_TECH
+- NOTEBOOKS
 - OPEN_DATA
 - SCROLL_DATA
 - WEB_APPS
