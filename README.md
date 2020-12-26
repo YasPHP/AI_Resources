@@ -25,6 +25,7 @@ The title says it all! This document is a running wiki on the various facets of 
 - NOTEBOOKS
 - OPEN_DATA
 - SCROLL_DATA
+- TRY_THESE_OUT!
 - WEB_APPS
 - WEB_SCRAPER_DATA
 
