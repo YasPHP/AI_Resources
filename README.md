@@ -33,5 +33,8 @@ The title says it all! This document is a running wiki on the various facets of 
 - WEB_APPS
 - WEB_SCRAPER_DATA
 
+![alt text](https://www.ledgerinsights.com/wp-content/uploads/2019/03/artificial-intelligence-AI.jpg)
+# Contributing
+
 (feel free to fork and become a contributor!) 
 
