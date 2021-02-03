@@ -1,4 +1,4 @@
-==== CREATIVE APPLICATIONS ====
+# Creative Applications
 - AIVA Technologies: https://www.aiva.ai/ [The Artificial Intelligence composing emotional soundtrack music]
 
 - Deep Mind: https://deepmind.com/
