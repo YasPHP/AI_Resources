@@ -7,6 +7,6 @@
 
 # Procedural Generative
 - [Synthetik](https://synthetik.com/abstract-generative-procedural-art/)
-- 
+
 # Art Demos
 - [Hexells](https://znah.net/hexells/#155)
