@@ -1,3 +1,3 @@
-- Paperspace GPU (Train ML Models on FREE Cloud GPUs): https://gradient.paperspace.com/free-gpu
+- [Paperspace GPU](https://gradient.paperspace.com/free-gpu) (Train ML Models on FREE Cloud GPUs)
 - [Jupyter Notebook](https://jupyter.org/)
 - Kaggle
