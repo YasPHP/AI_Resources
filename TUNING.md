@@ -1,8 +1,8 @@
 # Tuning Galore
 
-- SkLearn - GridSearchCV [https://stackoverflow.com/questions/44802939/hyperparameter-tuning-of-tensorflow-model] 
+## Automated Hyperparameter Tuning
+- [GridSearchCV(SkLearn)](https://stackoverflow.com/questions/44802939/hyperparameter-tuning-of-tensorflow-model)
 
-- Another viable (and documented) option for grid search with Tensorflow is Ray Tune. It's a scalable framework for hyperparameter tuning, specifically for deep learning/reinforcement learning.
-      [https://docs.ray.io/en/latest/tune/index.html] 
+- [Ray Tune (Tensorflow's Grid Search)](https://docs.ray.io/en/latest/tune/index.html)
 
-- KerasTuner [https://keras-team.github.io/keras-tuner/]
+- [KerasTuner](https://keras-team.github.io/keras-tuner/)
