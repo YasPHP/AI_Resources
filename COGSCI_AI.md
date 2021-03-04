@@ -1,6 +1,11 @@
 
 # Summer Workshops/Courses
 
+## Fields
+
+- [Neuromorphic Computing](https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html)
+
+
 ## Cogsci + AI Summer Workshops
 
 - https://baicsworkshop.github.io/index.html
