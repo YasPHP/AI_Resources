@@ -1,8 +1,8 @@
 # Image Upscaling
 
 - [AI Image Enlarger](https://imglarger.com/)
-- letsenhance.io
-- bigjpg.com
-- deep-image.ai
-- imageupscaler.com
-- GigaPixel AI
+- [Let's Enhance](letsenhance.io)
+- [AI Image Enlarger](bigjpg.com)
+- [Deep-Image](deep-image.ai)
+- [Image Upscaler](imageupscaler.com)
+- [GigaPixel AI](https://topazlabs.com/gigapixel-ai/)
