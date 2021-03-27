@@ -6,3 +6,4 @@
 - [Pioneers of AI](https://pioneersofai.com/)
 - [AI4Good](https://ai4good.org/)
 - [The Learning Salon](https://www.learningsalon.ai/)
+- [Encode Justice (AI Ethics + Policy)](https://encodejustice.org/)
